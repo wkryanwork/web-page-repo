@@ -1,0 +1,56 @@
+
+william.k.ryan@GLDLBAE00047228 MINGW64 ~/company_web (master)
+$ ssh-keygen -t rsa -b 4096 -C "^C
+
+william.k.ryan@GLDLBAE00047228 MINGW64 ~/company_web (master)
+$ ^C
+
+william.k.ryan@GLDLBAE00047228 MINGW64 ~/company_web (master)
+$ ssh-keygen -t rsa -b 4096 -C "wkryanwork"
+Generating public/private rsa key pair.
+Enter file in which to save the key (/c/Users/william.k.ryan/.ssh/id_rsa):
+Created directory '/c/Users/william.k.ryan/.ssh'.
+Enter passphrase for "/c/Users/william.k.ryan/.ssh/id_rsa" (empty for no passphrase):
+Enter same passphrase again:
+Your identification has been saved in /c/Users/william.k.ryan/.ssh/id_rsa
+Your public key has been saved in /c/Users/william.k.ryan/.ssh/id_rsa.pub
+The key fingerprint is:
+SHA256:njdU/+x5MaCKm+cDy0CLXc/F71wt2C3wZ69LgNb/UJ0 wkryanwork
+The key's randomart image is:
++---[RSA 4096]----+
+|                 |
+|                 |
+|          . .    |
+|     . .   *.o  o|
+|    + o S = ==oE+|
+|   . + o * ..+=B=|
+|      o * + o ==*|
+|       +.= . + ++|
+|       o+..   o++|
++----[SHA256]-----+
+
+william.k.ryan@GLDLBAE00047228 MINGW64 ~/company_web (master)
+$ ls -a
+./  ../  .git/  README.md  info.txt
+
+william.k.ryan@GLDLBAE00047228 MINGW64 ~/company_web (master)
+$ ls -a ..
+ ./                   Downloads/                                                                                    'Saved Games'/
+ ../                  Favorites/                                                                                     Searches/
+ .cekey               GPO/                                                                                           SendTo@
+ .cisco/              GlobalProtectLogs_william.k.ryan_02132025214837.zip                                           'Start Menu'@
+ .gitconfig           Links/                                                                                         Templates@
+ .lesshst            'Local Settings'@                                                                               Videos/
+ .minttyrc            Music/                                                                                         command.tmp
+ .ms-ad/             'My Documents'@                                                                                 company_web/
+ .ssh/                NTUSER.DAT                                                                                     integers.txt
+ .templateengine/     NTUSER.DAT{7177eec9-3664-11f0-b7ab-f40270fe9758}.TM.blf                                        ntuser.dat.LOG1
+ .vscode/             NTUSER.DAT{7177eec9-3664-11f0-b7ab-f40270fe9758}.TMContainer00000000000000000001.regtrans-ms   ntuser.dat.LOG2
+'3D Objects'/         NTUSER.DAT{7177eec9-3664-11f0-b7ab-f40270fe9758}.TMContainer00000000000000000002.regtrans-ms   ntuser.ini
+ AppData/             NetHood@                                                                                       regval.tmp
+'Application Data'@   OneDrive/                                                                                      source/
+ Contacts/           'OneDrive - BAE Systems Inc'/                                                                   vscode/
+ Cookies@             PrintHood@                                                                                     william.k.ryan_NTUSER.DAT
+ Documents/           Recent@
+
+william.k.ryan@GLDLBAE00047228 MINGW64 ~/company_web (master)
